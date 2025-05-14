@@ -8,4 +8,4 @@
 
 邮箱：23371537@buaa.edu.cn
 
-个人博客网站：[](https://s7777777h.github.io)
+个人博客网站：[https://s7777777h.github.io](https://s7777777h.github.io)
